@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap:http://pkv-games.jaylee.org/sitemap.xml
